@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Project pitch
 ##Introduction to Data Visualization
 
@@ -19,3 +20,6 @@ It could also be one interactive map with a sequential colour scheme and that is
 The column histogram would show the distribution of the total number of Africans deported over the 15 years.
 
 A line chart with many categories – one for each continent – would show the comparison between the number of deportations of Africans with those of people from other continents over the 15 years.
+=======
+# my-first-repo
+>>>>>>> master
